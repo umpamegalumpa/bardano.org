@@ -1,0 +1,250 @@
+/* screen - imac-1 */
+
+.animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(25px, 0);
+}
+.dosis-normal-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+}
+.imac-1 {
+  background-color: var(--white);
+  display: block;
+  height: 720px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+opacity: 0;transform: translate(25px, 0);
+}
+.imac-1 .ardano-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 293px;
+}
+.imac-1 .ardano-C61RwL:hover {
+
+}
+.imac-1 .ardano-ze6c5c {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 295px;
+}
+.imac-1 .bena-b1-hNFmq6 {
+  background-color: transparent;
+  height: 31px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 24px;
+}
+.imac-1 .bena-b2-hNFmq6 {
+  background-color: transparent;
+  height: 23px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 107px;
+  width: 16px;
+}
+.imac-1 .bena-b3-hNFmq6 {
+  background-color: transparent;
+  height: 45px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 40px;
+}
+.imac-1 .bena-b4-hNFmq6 {
+  background-color: transparent;
+  height: 44px;
+  left: 238px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 39px;
+}
+.imac-1 .bena-bed-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/bena@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 466px;
+  left: 918px;
+  pointer-events: auto;
+  position: absolute;
+  top: 107px;
+  transition: all 0.2s ease;
+  width: 452px;
+}
+.imac-1 .bena-bed-C61RwL:hover {
+
+opacity: 0;
+}
+.imac-1 .ceo-of-ethereum-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 806px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 596px;
+  width: auto;
+}
+.imac-1 .click-here-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 266px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 253px;
+  width: 261px;
+}
+.imac-1 .farm-ardano-big-apy-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 503px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 170px;
+  transition: all 0.2s ease;
+  width: 276px;
+}
+.imac-1 .farm-ardano-big-apy-C61RwL:hover {
+
+transform: scale(5.1);
+}
+.imac-1 .feature-list-te-ms-only-a-logo-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 528px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 404px;
+  width: 225px;
+}
+.imac-1 .rectangle-1-ze6c5c {
+  background-color: transparent;
+  height: 85px;
+  left: 15px;
+  position: absolute;
+  top: 11px;
+  width: 236px;
+}
+.imac-1 .roadma-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 941px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 362px;
+}
+.imac-1 .span0-fG88Ih {
+  color: rgba(0,0,0,1.0);
+  font-style: normal;
+}
+.imac-1 .span1-fG88Ih {
+  color: rgba(0,0,0,1.0);
+  font-style: normal;
+  font-weight: 700;
+}
+.imac-1 .sponsored-by-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 710px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 652px;
+  width: 98px;
+}
+.imac-1 .whiteaer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 17px;
+  letter-spacing: 18.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 632px;
+  transition: all 0.2s ease;
+  width: 584px;
+}
+.imac-1 .whiteaer-C61RwL:hover {
+
+opacity: 0;
+}
+.imac-1 .x1614452636725-1-C61RwL {
+  background-color: transparent;
+  height: 284px;
+  left: 963px;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 315px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;transform: translate(25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}
