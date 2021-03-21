@@ -1,0 +1,83 @@
+/* screen - coming-soon-in-the-moon2 */
+
+.coming-soon-in-the-moon2 {
+  background-color: var(--white);
+  height: 720px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.coming-soon-in-the-moon2 .ardano-changed-d-early-adapter-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 527px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 265px;
+  width: 637px;
+}
+.coming-soon-in-the-moon2 .image-2-C61RwL {
+  background-color: transparent;
+  height: 313px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 253px;
+  width: 438px;
+}
+.coming-soon-in-the-moon2 .loading-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 455px;
+  letter-spacing: 18.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: auto;
+}
+.coming-soon-in-the-moon2 .span0-1OCDFM {
+  color: rgba(0,0,0,1.0);
+  font-style: normal;
+}
+.coming-soon-in-the-moon2 .span1-1OCDFM {
+  color: rgba(0,0,0,1.0);
+  font-style: normal;
+  font-weight: 700;
+}
+.coming-soon-in-the-moon2 .x-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 596px;
+  letter-spacing: 18.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 179px;
+}
+.dosis-bold-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dosis-normal-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --white: rgba(255,255,255,1.0);
+}

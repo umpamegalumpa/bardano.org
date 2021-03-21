@@ -1,0 +1,308 @@
+/* screen - moonbase */
+
+.animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(25px, 0);
+}
+.dosis-bold-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dosis-normal-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+}
+.moonbase {
+  background-color: var(--white);
+  display: block;
+  height: 720px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+opacity: 0;transform: translate(25px, 0);
+}
+.moonbase .ardano-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 293px;
+}
+.moonbase .ardano-C61RwL:hover {
+
+}
+.moonbase .ardano-ze6c5c {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  transition: all 0.2s ease;
+  width: 295px;
+}
+.moonbase .ardano-ze6c5c:hover {
+
+transform: scale(1.1);
+}
+.moonbase .bena-b1-hNFmq6 {
+  background-color: transparent;
+  height: 31px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 24px;
+}
+.moonbase .bena-b2-hNFmq6 {
+  background-color: transparent;
+  height: 23px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 107px;
+  width: 16px;
+}
+.moonbase .bena-b3-hNFmq6 {
+  background-color: transparent;
+  height: 45px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 40px;
+}
+.moonbase .bena-b4-hNFmq6 {
+  background-color: transparent;
+  height: 44px;
+  left: 238px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 39px;
+}
+.moonbase .bena-bed-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/bena@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 466px;
+  left: 918px;
+  pointer-events: auto;
+  position: absolute;
+  top: 107px;
+  transition: all 0.2s ease;
+  width: 452px;
+}
+.moonbase .bena-bed-C61RwL:hover {
+
+opacity: 0;
+}
+.moonbase .ceo-of-ethereum-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 806px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 611px;
+  width: auto;
+}
+.moonbase .click-here-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 206px;
+  width: 261px;
+}
+.moonbase .download-2-C61RwL {
+  background-color: transparent;
+  height: 57px;
+  left: 503px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 27px;
+}
+.moonbase .farm-ardano-big-apy-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 503px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 170px;
+  transition: all 0.2s ease;
+  width: 276px;
+}
+.moonbase .farm-ardano-big-apy-C61RwL:hover {
+
+transform: scale(5.1);
+}
+.moonbase .farm-ardano-big-apy-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 503px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 170px;
+  transition: all 0.2s ease;
+  width: 276px;
+}
+.moonbase .farm-ardano-big-apy-VMr6Om:hover {
+
+transform: scale(2.1);
+}
+.moonbase .feature-list-te-ms-only-a-logo-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 347px;
+  width: 225px;
+}
+.moonbase .image-1-C61RwL {
+  background-color: transparent;
+  height: 126px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 825px;
+}
+.moonbase .image-5-C61RwL {
+  background-color: transparent;
+  height: 782px;
+  left: 285px;
+  object-fit: cover;
+  position: absolute;
+  top: 237px;
+  width: 435px;
+}
+.moonbase .moonma-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 941px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 362px;
+}
+.moonbase .rectangle-1-ze6c5c {
+  background-color: transparent;
+  height: 85px;
+  left: 15px;
+  position: absolute;
+  top: 11px;
+  width: 278px;
+}
+.moonbase .span0-fG88Ih {
+  color: rgba(0,0,0,1.0);
+  font-style: normal;
+}
+.moonbase .span1-fG88Ih {
+  color: rgba(0,0,0,1.0);
+  font-style: normal;
+  font-weight: 700;
+}
+.moonbase .sponsored-by-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 710px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 670px;
+  width: 98px;
+}
+.moonbase .whiteaer-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 18.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 632px;
+  transition: all 0.2s ease;
+  width: 584px;
+}
+.moonbase .whiteaer-C61RwL:hover {
+
+opacity: 0;
+}
+.moonbase .x1614452636725-1-C61RwL {
+  background-color: transparent;
+  height: 284px;
+  left: 963px;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 315px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;transform: translate(25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
+}

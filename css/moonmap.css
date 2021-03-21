@@ -1,0 +1,31 @@
+/* screen - moonmap */
+
+.dosis-bold-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dosis-normal-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+}
+.moonmap {
+  background-color: var(--white);
+  background-image: url(../img/532064-1@1x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 720px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --white: rgba(255,255,255,1.0);
+}

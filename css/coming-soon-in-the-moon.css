@@ -1,0 +1,74 @@
+/* screen - coming-soon-in-the-moon */
+
+.coming-soon-in-the-moon {
+  background-color: var(--white);
+  height: 720px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.coming-soon-in-the-moon .askel-is-the-fu-of-engineering-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 310px;
+  width: 695px;
+}
+.coming-soon-in-the-moon .loading-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 455px;
+  letter-spacing: 18.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: auto;
+}
+.coming-soon-in-the-moon .span0-egklx0 {
+  color: rgba(0,0,0,1.0);
+  font-style: normal;
+}
+.coming-soon-in-the-moon .span1-egklx0 {
+  color: rgba(0,0,0,1.0);
+  font-style: normal;
+  font-weight: 400;
+}
+.coming-soon-in-the-moon .x-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 569px;
+  letter-spacing: 18.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 117px;
+}
+.dosis-bold-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dosis-normal-black-72px {
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --white: rgba(255,255,255,1.0);
+}
