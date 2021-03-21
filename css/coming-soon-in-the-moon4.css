@@ -1,6 +1,6 @@
-/* screen - coming-soon-in-the-moon2 */
+/* screen - coming-soon-in-the-moon4 */
 
-.coming-soon-in-the-moon2 {
+.coming-soon-in-the-moon4 {
   background-color: var(--white);
   height: 720px;
   overflow: hidden;
@@ -8,26 +8,26 @@
   position: relative;
   width: 1280px;
 }
-.coming-soon-in-the-moon2 .fields-aint-gon-ne-alpha-tester-C61RwL {
+.coming-soon-in-the-moon4 .i-thought-it-mi-l-early-adopter-C61RwL {
   background-color: transparent;
   height: auto;
-  left: 527px;
+  left: 720px;
   letter-spacing: 0.00px;
   line-height: normal;
   position: absolute;
-  top: 265px;
-  width: 637px;
+  top: 278px;
+  width: 465px;
 }
-.coming-soon-in-the-moon2 .image-3-C61RwL {
+.coming-soon-in-the-moon4 .image-6-C61RwL {
   background-color: transparent;
-  height: 502px;
-  left: 82px;
+  height: 376px;
+  left: 24px;
   object-fit: cover;
   position: absolute;
-  top: 149px;
-  width: 337px;
+  top: 243px;
+  width: 660px;
 }
-.coming-soon-in-the-moon2 .loading-C61RwL {
+.coming-soon-in-the-moon4 .loading-C61RwL {
   background-color: transparent;
   height: auto;
   left: 455px;
@@ -38,21 +38,21 @@
   top: 58px;
   width: auto;
 }
-.coming-soon-in-the-moon2 .span0-Gfb0n4 {
+.coming-soon-in-the-moon4 .span0-Svoclu {
   color: rgba(0,0,0,1.0);
   font-family: 'Dosis', Helvetica;
   font-size: 30px;
   font-style: normal;
   font-weight: 400;
 }
-.coming-soon-in-the-moon2 .span1-Gfb0n4 {
+.coming-soon-in-the-moon4 .span1-Svoclu {
   color: rgba(0,0,0,1.0);
   font-family: 'Dosis', Helvetica;
   font-size: 30px;
   font-style: normal;
   font-weight: 700;
 }
-.coming-soon-in-the-moon2 .x-C61RwL {
+.coming-soon-in-the-moon4 .x-C61RwL {
   background-color: transparent;
   height: auto;
   left: 596px;
@@ -61,7 +61,7 @@
   position: absolute;
   text-align: left;
   top: 132px;
-  width: 184px;
+  width: 90px;
 }
 .dosis-bold-black-72px {
   color: var(--black);
