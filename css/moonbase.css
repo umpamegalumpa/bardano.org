@@ -12,13 +12,6 @@ opacity: 0;transform: translate(25px, 0);
   font-style: normal;
   font-weight: 700;
 }
-.dosis-normal-black-30px {
-  color: var(--black);
-  font-family: 'Dosis', Helvetica;
-  font-size: 30px;
-  font-style: normal;
-  font-weight: 400;
-}
 .dosis-normal-black-72px {
   color: var(--black);
   font-family: 'Dosis', Helvetica;
@@ -104,6 +97,9 @@ transform: scale(1.1);
 }
 .moonbase .bena-bed-C61RwL {
   background-color: transparent;
+  background-image: url(../img/bena@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
   height: 466px;
   left: 918px;
   pointer-events: auto;
@@ -115,15 +111,6 @@ transform: scale(1.1);
 .moonbase .bena-bed-C61RwL:hover {
 
 opacity: 0;
-}
-.moonbase .bena-hNFmq6 {
-  background-color: transparent;
-  height: 466px;
-  left: 45px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 362px;
 }
 .moonbase .ceo-of-ethereum-C61RwL {
   background-color: transparent;
@@ -233,11 +220,11 @@ transform: scale(2.1);
 }
 .moonbase .image-5-C61RwL {
   background-color: transparent;
-  height: 483px;
+  height: 782px;
   left: 285px;
   object-fit: cover;
   position: absolute;
-  top: 386px;
+  top: 237px;
   width: 435px;
 }
 .moonbase .moonma-C61RwL {

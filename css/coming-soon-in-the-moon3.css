@@ -70,13 +70,6 @@
   font-style: normal;
   font-weight: 700;
 }
-.dosis-normal-black-30px {
-  color: var(--black);
-  font-family: 'Dosis', Helvetica;
-  font-size: 30px;
-  font-style: normal;
-  font-weight: 400;
-}
 .dosis-normal-black-72px {
   color: var(--black);
   font-family: 'Dosis', Helvetica;

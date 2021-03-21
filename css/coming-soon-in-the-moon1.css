@@ -10,6 +10,11 @@
 }
 .coming-soon-in-the-moon1 .ardano-changed-d-early-adapter-C61RwL {
   background-color: transparent;
+  color: var(--black);
+  font-family: 'Dosis', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
   height: auto;
   left: 527px;
   letter-spacing: 0.00px;
@@ -40,15 +45,10 @@
 }
 .coming-soon-in-the-moon1 .span0-1OCDFM {
   color: rgba(0,0,0,1.0);
-  font-family: 'Dosis', Helvetica;
-  font-size: 30px;
   font-style: normal;
-  font-weight: 400;
 }
 .coming-soon-in-the-moon1 .span1-1OCDFM {
   color: rgba(0,0,0,1.0);
-  font-family: 'Dosis', Helvetica;
-  font-size: 30px;
   font-style: normal;
   font-weight: 700;
 }
@@ -69,13 +69,6 @@
   font-size: 72px;
   font-style: normal;
   font-weight: 700;
-}
-.dosis-normal-black-30px {
-  color: var(--black);
-  font-family: 'Dosis', Helvetica;
-  font-size: 30px;
-  font-style: normal;
-  font-weight: 400;
 }
 .dosis-normal-black-72px {
   color: var(--black);
